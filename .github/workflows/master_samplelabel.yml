@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'sampleLabel'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_729D5544E3B546E8886269F27E77C994 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_39CAB97754364A07BCF4D974A322B780 }}
